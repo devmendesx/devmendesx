@@ -6,9 +6,9 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Invillia.
-- 🌱 I’m currently learning iOS/Swift and Java/Kafka Streams
+- 🌱 I’m currently learning iOS/Swift.
 - 👯 I’m looking to collaborate on Fullstack technologies.
-- 🤔 I’m looking for help on iOS SwiftUI and Kafka Development.
+- 🤔 I’m looking for help on iOS SwiftUI.
 - 💬 Ask me about anything you want!
 
   <a href = "mailto:matheushenriquesad@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail" target="_blank"></a>
