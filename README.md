@@ -38,5 +38,5 @@ Here are some ideas to get you started:
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devmendesx&layout=compact&langs_count=7&theme=dracula"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devmendesx&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=Your_GitHub_Username&show_icons=true)
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=devmendesx&show_icons=true)
 
