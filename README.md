@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Invillia.
-- 🌱 I’m currently learning Flutter
+- 🌱 I’m currently learning Kotlin for Mobile Application
 - 👯 I’m looking to collaborate on Fullstack technologies.
 - 💬 Ask me about anything you want!
 
